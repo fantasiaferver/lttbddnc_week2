@@ -1,0 +1,9 @@
+:root {
+    --text-color: red;
+}
+h1 {
+    color: var(--text-color);
+}
+p {
+    color: var(--text-color);
+}
